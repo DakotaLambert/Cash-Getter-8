@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "Cash-Getter-8/static/css/main.c3c00d7e.css",
+    "main.js": "Cash-Getter-8/static/js/main.97434b7d.js",
+    "static/media/cashGetter.png": "Cash-Getter-8/static/media/cashGetter.c0d785d681c0cfeaa019.png",
+    "static/media/money-counter.mp3": "Cash-Getter-8/static/media/money-counter.03959b950641510d3d63.mp3",
+    "index.html": "/index.html",
+    "main.c3c00d7e.css.map": "Cash-Getter-8/static/css/main.c3c00d7e.css.map",
+    "main.97434b7d.js.map": "Cash-Getter-8/static/js/main.97434b7d.js.map"
+  },
+  "entrypoints": [
+    "Cash-Getter-8/static/css/main.c3c00d7e.css",
+    "Cash-Getter-8/static/js/main.97434b7d.js"
+  ]
+}
