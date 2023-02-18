@@ -9250,7 +9250,7 @@
           })()
         );
       }
-      var a = t.p + "static/media/money-counter.03959b950641510d3d63.mp3",
+      var a = t.p + "Cash-Getter-8/static/media/money-counter.03959b950641510d3d63.mp3",
         o = t(184),
         u = new Audio(a),
         i = function () {
